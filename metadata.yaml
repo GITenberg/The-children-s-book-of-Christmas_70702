@@ -1,0 +1,27 @@
+_repo: The-children-s-book-of-Christmas_70702
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Dier, J. C.
+    gutenberg_agent_id: '55872'
+    url: http://www.gutenberg.org/2009/agents/55872
+description: ''
+gutenberg_issued: '2023-05-04'
+identifiers:
+  gutenberg: '70702'
+language: en
+pgterms:marc904: https://archive.org/details/childrensbookofc00dier_0
+pgterms:marc905: 20211217165735dier
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe MacMillan Company, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The children's book of Christmas
+url: http://www.gutenberg.org/ebooks/70702
